@@ -49,7 +49,7 @@
       </div>
     </footer>
 
-    {% if not theme.sidebar.b2t %}
+    {% if theme.sidebar.b2t %}
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
         {% if theme.sidebar.scrollpercent %}
