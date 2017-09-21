@@ -577,7 +577,7 @@ motion:
     coll_header: slideLeftIn
 
 # Fancybox
-fancybox: true
+fancybox: false
 
 # Progress bar in the top during page loading.
 pace: false
